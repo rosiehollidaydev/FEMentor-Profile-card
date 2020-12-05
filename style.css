@@ -8,7 +8,7 @@ body{
 
 body::before{
     content:"";
-    background: url(/images/bg-pattern-top.svg) right bottom no-repeat;
+    background: url(images/bg-pattern-top.svg) right bottom no-repeat;
     position: absolute;
     top:0;
     left:0;
@@ -19,7 +19,7 @@ body::before{
 
 body::after{
     content:"";
-    background: url(/images/bg-pattern-bottom.svg) left top no-repeat;
+    background: url(images/bg-pattern-bottom.svg) left top no-repeat;
     position: absolute;
     top:50%;
     left:50%;
